@@ -12,6 +12,8 @@
 
 ### 💡 About Me
 
+> 🔁 Also available in [Portuguese-BR](README.pt-br.md)
+
 I'm an undergraduate Computer Engineering student at **Federal University of Technology – Paraná (UTFPR)**, currently seeking an internship to enter the tech market and grow both technically and professionally.
 
 I genuinely enjoy the full cycle of programming — from brainstorming and structuring a solution, to coding and documenting the process. It’s paradoxically **exhausting and exciting**, but always rewarding in the end.
