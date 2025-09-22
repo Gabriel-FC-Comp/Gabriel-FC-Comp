@@ -19,11 +19,10 @@ I'm an undergraduate Computer Engineering student at **Federal University of Tec
 I genuinely enjoy the full cycle of programming — from brainstorming and structuring a solution, to coding and documenting the process. It’s paradoxically **exhausting and exciting**, but always rewarding in the end.
 
 Right now, I’m diving into a new project to deepen my knowledge of:
-- **TypeScript**
-- **Jest**
-- **Prisma**
-- **Clean Architecture**
-- **PostgreSQL**
+- **Astro**
+- **TypeScript/JS**
+- **HTML5**
+- **CSS**
 
 ## ⚙️ My Tech Stack
 > A little glimpse of where I use my fingers ;D
